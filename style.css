@@ -1,0 +1,5 @@
+body{background-image : url("images/kk.jpeg");
+background-repeat: no repeat;
+background-attachment: fixed;
+}
+ol{font-size: 100px;list-style-type: lower-greek;}
